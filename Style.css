@@ -1,0 +1,41 @@
+pre{
+    color: whitesmoke;
+    font-style: italic;
+    border: 3px solid red;
+    margin: 30px 50px 50px 30px;
+    padding: 50px 50px 50px 0px;
+}
+
+.A{
+    color: rgb(211, 255, 16);
+}
+
+.B{
+    color: blueviolet;
+}
+
+.Demo1{
+    color: red;
+}
+
+.Demo2{
+    color: orange;
+}
+
+#sample{
+    color:chartreuse;
+}
+
+body{
+    margin: 30px;
+    border: 2px solid red;
+    padding: 50px;
+    background-color: black;
+    color: white;
+}
+
+div{
+    margin: 30px;
+    border: 2px solid red;
+    padding: 50px;
+}
