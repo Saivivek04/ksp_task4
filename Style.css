@@ -1,5 +1,9 @@
+#Z{
+    background-color: black;
+    color: aliceblue;
+}
 pre{
-    color: whitesmoke;
+    color: rgb(0, 0, 0);
     font-style: italic;
     border: 3px solid red;
     margin: 30px 50px 50px 30px;
@@ -25,16 +29,21 @@ pre{
 #sample{
     color:chartreuse;
 }
+.Space{
+    color:black;
+    background: white;
+}
 
 body{
     margin: 30px;
     border: 2px solid red;
     padding: 50px;
-    background-color: black;
     color: white;
+    background-color: darkgray;
 }
 
 div{
+    background-color: black;
     margin: 30px;
     border: 2px solid red;
     padding: 50px;
